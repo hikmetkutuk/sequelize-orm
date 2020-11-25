@@ -7,13 +7,6 @@
 ![.Sequelize](https://img.shields.io/static/v1?label=sequelize&message=6.3.5&color=9cf&style=for-the-badge)
 ![TypeScript](https://img.shields.io/static/v1?label=typescript&message=4.1.2&color=blue&style=for-the-badge)
 
-# REST API
-
-Building RESTful web services, like other programming skills is part art, part science. 
-As the Internet industry progresses, creating a REST API becomes more concrete with emerging best practices. 
-As RESTful web services don't follow a prescribed standard except for HTTP, 
-it's important to build your RESTful API in accordance with industry best practices to ease development and increase client adoption.
-
 ## Node.js
 
 As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. 
